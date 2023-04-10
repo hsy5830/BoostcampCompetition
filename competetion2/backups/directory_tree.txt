@@ -1,0 +1,23 @@
+.
+|-- code
+|   |-- __pycache__
+|   |   `-- load_data.cpython-38.pyc
+|   |-- best_model
+|   |-- dict_label_to_num.pkl
+|   |-- dict_num_to_label.pkl
+|   |-- inference.py
+|   |-- load_data.py
+|   |-- logs
+|   |-- prediction
+|   |   `-- sample_submission.csv
+|   |-- requirements.txt
+|   |-- results
+|   `-- train.py
+|-- dataset
+|   |-- test
+|   |   `-- test_data.csv
+|   `-- train
+|       `-- train.csv
+`-- directory_tree.txt
+
+9 directories, 11 files

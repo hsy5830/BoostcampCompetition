@@ -1,0 +1,4 @@
+[0.6252100840336134, 1, '"my_similarity": {"type": "LMDirichlet", "mu": 800}']
+[0.8941176470588236, 10, '"my_similarity": {"type": "LMDirichlet", "mu": 800}']
+[0.9193277310924369, 20, '"my_similarity": {"type": "LMDirichlet", "mu": 800}']
+[0.934453781512605, 40, '"my_similarity": {"type": "LMDirichlet", "mu": 800}']

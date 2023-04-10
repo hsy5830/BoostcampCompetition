@@ -1,0 +1,4 @@
+[0.6638655462184874, 1, '"my_similarity": {"type": "DFR", "basic_model": "g", "after_effect": "b", "normalization": "h2"}']
+[0.9159663865546218, 10, '"my_similarity": {"type": "DFR", "basic_model": "g", "after_effect": "b", "normalization": "h2"}']
+[0.934453781512605, 20, '"my_similarity": {"type": "DFR", "basic_model": "g", "after_effect": "b", "normalization": "h2"}']
+[0.9512605042016806, 40, '"my_similarity": {"type": "DFR", "basic_model": "g", "after_effect": "b", "normalization": "h2"}']

@@ -1,0 +1,4 @@
+[0.6201680672268908, 1, '"my_similarity": {"type": "IB", "distribution": "ll", "lambda": "ttf", "normalization": "h3"}']
+[0.8957983193277311, 10, '"my_similarity": {"type": "IB", "distribution": "ll", "lambda": "ttf", "normalization": "h3"}']
+[0.9142857142857143, 20, '"my_similarity": {"type": "IB", "distribution": "ll", "lambda": "ttf", "normalization": "h3"}']
+[0.9394957983193277, 40, '"my_similarity": {"type": "IB", "distribution": "ll", "lambda": "ttf", "normalization": "h3"}']
